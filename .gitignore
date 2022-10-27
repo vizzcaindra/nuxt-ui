@@ -39,6 +39,9 @@ coverage
 *.iml
 .idea
 
+# Vite
+.vite
+
 # OSX
 .DS_Store
 .AppleDouble
