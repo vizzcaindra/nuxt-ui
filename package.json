@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-component-ui",
+  "name": "nuxt-ui-component",
   "version": "0.0.1",
   "description": "The basic UI component for Nuxt 3",
   "type": "module",
