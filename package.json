@@ -1,6 +1,6 @@
 {
-  "name": "nuxt-ui",
-  "version": "0.0.2",
+  "name": "@vizzcaindra/nuxt-ui",
+  "version": "0.0.1",
   "description": "The basic UI component for Nuxt 3",
   "type": "module",
   "exports": {
