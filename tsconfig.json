@@ -1,3 +1,14 @@
 {
-  "extends": "./playground/.nuxt/tsconfig.json"
+  "extends": "./playground/.nuxt/tsconfig.json",
+  "paths": {
+    "~/*": [
+      "./*"
+    ],
+    "@/*": [
+      "./src/runtime/*"
+    ],
+    "@nuxt-ui/*": [
+      "./src/runtime/*"
+    ]
+  }
 }
